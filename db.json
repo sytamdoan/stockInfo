@@ -1,5 +1,5 @@
 {
-  "MetaData": [
+  "MetaData": 
     {
         "1. Information": "Intraday (1min) open, high, low, close prices and volume",
         "2. Symbol": "AAPL",
@@ -8,7 +8,7 @@
         "5. Output Size": "Compact",
         "6. Time Zone": "US/Eastern"
     }
-  ],
+  ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
